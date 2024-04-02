@@ -3,6 +3,7 @@
 </h1>
 
 <div align="center">
+<h1>Added this line</h1>
 
 [![pypi](https://img.shields.io/pypi/v/cookiecutter.svg)](https://pypi.org/project/cookiecutter/)
 [![python](https://img.shields.io/pypi/pyversions/cookiecutter.svg)](https://pypi.org/project/cookiecutter/)
@@ -26,6 +27,7 @@ Create projects swiftly from **cookiecutters** (project templates) with this com
 ## Installation
 
 Install cookiecutter using pip package manager:
+
 ```
 # pipx is strongly recommended.
 pipx install cookiecutter
